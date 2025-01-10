@@ -1,0 +1,4 @@
+Estoy repasando el comando para crear un archivo jeje
+$ touche nombre.txt
+
+Estamos en la rama MAIN o MASTER
